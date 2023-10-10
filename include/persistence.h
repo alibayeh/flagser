@@ -4,6 +4,7 @@
 // #define USE_COEFFICIENTS
 // #define USE_GOOGLE_HASHMAP
 
+#include <cstdint>
 #include <cassert>
 #include <deque>
 #include <iostream>
